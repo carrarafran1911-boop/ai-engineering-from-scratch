@@ -60,3 +60,7 @@ catalog.json
 
 *.o
 *.exe
+
+*.pt
+*.pth
+*.safetensors
