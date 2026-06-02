@@ -64,3 +64,5 @@ catalog.json
 *.pt
 *.pth
 *.safetensors
+
+.env
